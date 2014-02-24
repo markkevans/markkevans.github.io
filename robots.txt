@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://markkevans.github.io/sitemap.xml 
+Sitemap: http://www.markkevans.com/sitemap.xml 
