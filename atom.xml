@@ -4,7 +4,7 @@
   <title><![CDATA[Mark Evans]]></title>
   <link href="http://www.markkevans.com/atom.xml" rel="self"/>
   <link href="http://www.markkevans.com/"/>
-  <updated>2014-02-24T21:14:26+00:00</updated>
+  <updated>2014-02-24T21:22:49+00:00</updated>
   <id>http://www.markkevans.com/</id>
   <author>
     <name><![CDATA[Mark Evans]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to My Site]]></title>
+    <link href="http://www.markkevans.com/blog/2014/02/24/welcome-to-my-site/"/>
+    <updated>2014-02-24T21:16:21+00:00</updated>
+    <id>http://www.markkevans.com/blog/2014/02/24/welcome-to-my-site</id>
+    <content type="html"><![CDATA[<p>I thought it was time to launch a new site seperate from my developer blog at <a href="http://www.freelancephp.co.uk">FreelancePHP</a> so that I could blog about more that just PHP related things. I&rsquo;ve got lots of opinions and idea&rsquo;s and I wanted somewhere nice to put them.</p>
+
+<!--more-->
+
+
+<p>This is just an introduction post so I won&rsquo;t go into too much detail for now but I intend to blog about many things related to Startups, Entrepreneurship, leadership and development processes and best practices.</p>
+
+<p>Keep an eye out for some posts coming your way in a few weeks.</p>
+
+<p>Mark</p>
+]]></content>
+  </entry>
   
 </feed>
