@@ -4,7 +4,7 @@
   <title><![CDATA[Mark Evans]]></title>
   <link href="http://www.markkevans.com/atom.xml" rel="self"/>
   <link href="http://www.markkevans.com/"/>
-  <updated>2014-02-24T21:22:49+00:00</updated>
+  <updated>2014-04-19T11:25:04+01:00</updated>
   <id>http://www.markkevans.com/</id>
   <author>
     <name><![CDATA[Mark Evans]]></name>
@@ -14,16 +14,61 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Welcome to My Site]]></title>
-    <link href="http://www.markkevans.com/blog/2014/02/24/welcome-to-my-site/"/>
-    <updated>2014-02-24T21:16:21+00:00</updated>
-    <id>http://www.markkevans.com/blog/2014/02/24/welcome-to-my-site</id>
-    <content type="html"><![CDATA[<p>I thought it was time to launch a new site seperate from my developer blog at <a href="http://www.freelancephp.co.uk">FreelancePHP</a> so that I could blog about more that just PHP related things. I&rsquo;ve got lots of opinions and idea&rsquo;s and I wanted somewhere nice to put them.</p>
+    <title type="html"><![CDATA[Guide for Recruiters]]></title>
+    <link href="http://www.markkevans.com/2014/04/19/guide-for-recruiters/"/>
+    <updated>2014-04-19T10:44:03+01:00</updated>
+    <id>http://www.markkevans.com/2014/04/19/guide-for-recruiters</id>
+    <content type="html"><![CDATA[<p>This is for all of the recruiters who call me at work, add me on Linkedin or send me speculative CV&#8217;s / roles for my consideration. Lets call it a best practice guide for how I want to interact with you, follow this guide and I am sure we will get on well, ignore this guide and I will be sure to not deal with you at all no matter how good the candidate or the role might be.</p>
 
 <!--more-->
 
 
-<p>This is just an introduction post so I won&rsquo;t go into too much detail for now but I intend to blog about many things related to Startups, Entrepreneurship, leadership and development processes and best practices.</p>
+<p>The aim of this guide is to help both myself and the recruiters who wish to get in contact with me, after all we are all busy people right?</p>
+
+<h2>LinkedIn</h2>
+
+
+<p>Do not add me on LinkedIn as &#8216;We have done business together&#8217; if we have not, I will reject your request and I will file a spam complaint.</p>
+
+<p>If you want to work with me, send me details of why I should work with you and include some references that I can contact for feedback in the intiial message, if you don&#8217;t hear back from me take that as a sign that I don&#8217;t need your services at this time, try again in 3 months.</p>
+
+<h2>Speculative CV&#8217;s</h2>
+
+
+<p>Do not send me speculative CV&#8217;s for a candidate who &#8220;You don&#8217;t want to miss out on&#8221;. If I am not working with you then you are unlikely to know what I am recruiting for or if I am recruiting at all.</p>
+
+<p>Any speculative CV&#8217;s sent over will be considered a gift and will be treated as such no matter what terms you specify in your email, I do not accept your terms unless I explicity agree in writing.</p>
+
+<h2>Constant Calling / Emailing</h2>
+
+
+<p>Don&#8217;t call me constanntly without leaving a message on my voicemail, if you want to talk with me then call me one, leave me a voicemail message on why I should call you back. If you don&#8217;t receive a phonecall or email from me then please take that as a sign that I don&#8217;t need your services.</p>
+
+<p>If you send me an email, explain why I should work with you and how you operate and wait for me to reply. If no reply is received then consider that confirmation that I don&#8217;t need your services at this time, try again in 3 months.</p>
+
+<h2>Calling my team</h2>
+
+
+<p>Do not call anyone who works for me to try and get them to put you through to me and do not call them offering an exciting new role, I do not work with recruiters / agencies who work in this way.</p>
+
+<h2>Meetups</h2>
+
+
+<p>I view all meetups organised by recruitment agencies as a business event rather than a meetup, please ensure you make it clear what benefit I will get from attending or from sending someone from my team.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to My Site]]></title>
+    <link href="http://www.markkevans.com/2014/02/24/welcome-to-my-site/"/>
+    <updated>2014-02-24T21:16:21+00:00</updated>
+    <id>http://www.markkevans.com/2014/02/24/welcome-to-my-site</id>
+    <content type="html"><![CDATA[<p>I thought it was time to launch a new site seperate from my developer blog at <a href="http://www.freelancephp.co.uk">FreelancePHP</a> so that I could blog about more that just PHP related things. I&#8217;ve got lots of opinions and idea&#8217;s and I wanted somewhere nice to put them.</p>
+
+<!--more-->
+
+
+<p>This is just an introduction post so I won&#8217;t go into too much detail for now but I intend to blog about many things related to Startups, Entrepreneurship, leadership and development processes and best practices.</p>
 
 <p>Keep an eye out for some posts coming your way in a few weeks.</p>
 

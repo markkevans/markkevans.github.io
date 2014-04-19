@@ -1,20 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://www.markkevans.com/blog/2014/02/24/welcome-to-my-site/</loc>
+        <loc>http://www.markkevans.com/2014/02/24/welcome-to-my-site/</loc>
         <lastmod>2014-02-24T21:22:42+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.markkevans.com/2014/04/19/guide-for-recruiters/</loc>
+        <lastmod>2014-04-19T11:25:04+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.markkevans.com/archives/</loc>
-        <lastmod>2014-02-24T21:22:42+00:00</lastmod>
+        <lastmod>2014-04-19T11:25:04+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.markkevans.com/blog/archives/</loc>
-        <lastmod>2014-02-24T21:22:42+00:00</lastmod>
+        <lastmod>2014-04-19T11:25:04+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.markkevans.com/</loc>
-        <lastmod>2014-02-24T21:22:42+00:00</lastmod>
+        <lastmod>2014-04-19T11:25:04+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.markkevans.com/robots.txt</loc>
