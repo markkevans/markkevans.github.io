@@ -1,1 +1,38 @@
-markkevans.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Zopa Chat Widget</title>
+</head>
+<body>
+  <h1>Welcome to Chat Support</h1>
+  <p>Click the chat icon to start a conversation with us.</p>
+
+  <script type="text/javascript">
+    (function(w, d, x, id){
+      var s = d.createElement('script');
+      s.src = 'https://zopa-connect-10b01fbb.my.connect.aws/connectwidget/static/amazon-connect-chat-interface-client.js';
+      s.async = 1;
+      s.id = id;
+      d.getElementsByTagName('head')[0].appendChild(s);
+      w[x] = w[x] || function() { (w[x].ac = w[x].ac || []).push(arguments) };
+    })(window, document, 'amazon_connect', '84c64005-cfdc-48bd-b9c5-5a982623e036');
+
+    amazon_connect('styles', {
+      iconType: 'CHAT',
+      openChat: { color: '#ffffff', backgroundColor: '#123456' },
+      closeChat: { color: '#ffffff', backgroundColor: '#123456' }
+    });
+
+    amazon_connect('snippetId', 'QVFJREFIajZXQjcyUXcrNFBEZVZpU0tIdzdFSjJTRnF3a2E2WXVITnhwS1FrcWpBd1FHa0RPYlo1T3E4NlBTUWc1M3RCMnlvQUFBQWJqQnNCZ2txaGtpRzl3MEJCd2FnWHpCZEFnRUFNRmdHQ1NxR1NJYjNEUUVIQVRBZUJnbGdoa2dCWlFNRUFTNHdFUVFNQVREUmlOMVBXTWxlSzJ6Y0FnRVFnQ3VQcVA0M1VreEtnUGpZKzhTVlVZUDNuZ3ZQdk1IZzZ3N1pFNTE2NkxwSEJjRFBvUU5Yb1ZXUjVGT286OnVoZ1U5OWkvTGk5RzhYb0FSTUNFd0hmNzgxOUhnK0ZOdlYwTGFsaFJhRDZzQ1cvWnZWRllyNlBRS2Z5Wm9WK0pBVXFkWEpDVkVJSDREUlpIcFN6N1JzWFloYld6dlNVVzd0cXFtK0Z3V3I4RHQyb1BrRmRoM00zOE91QkZORENvS2p3MlB0aXRpQ0pWUkNhY0MrOEtyN09qZUFwOFlpYz0=');
+
+    amazon_connect('supportedMessagingContentTypes', [
+      'text/plain',
+      'text/markdown',
+      'application/vnd.amazonaws.connect.message.interactive',
+      'application/vnd.amazonaws.connect.message.interactive.response'
+    ]);
+  </script>
+</body>
+</html>
